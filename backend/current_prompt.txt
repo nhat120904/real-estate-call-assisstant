@@ -1,0 +1,12 @@
+address: ["Cau Giay"]
+price: null
+property_type: ["house"]
+area: null
+bedrooms: null
+bathrooms: null
+house_direction: null
+description: null
+floors: null
+installment_payment: null
+furniture: null
+balcony_direction: null

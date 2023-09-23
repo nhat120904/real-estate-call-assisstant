@@ -1,0 +1,5 @@
+elasticsearch==8.9.0
+# extract_keyword==1.0.1
+openai==0.28.0
+protobuf==4.24.3
+websockets==11.0.3
